@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Web and mobile developer from the US.
+  A web and mobile developer from the US.
 </p>
 
 
