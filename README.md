@@ -32,7 +32,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:chad@mmmyeah.com'>chad@mmmyeah.com</a>
+  📫 How to reach me: <a href='mailto:chad@mmmyeah.com'>Chad@MmmYeah.Com</a>
 </p>
 
 <!--
