@@ -6,8 +6,6 @@
   A web and mobile developer from the US.
 </p>
 
-
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/chad-cantrell/">
@@ -22,9 +20,14 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
+  Desktop<br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%209700K%209th%20gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<br/>
+Mobile
+</br>
+<img src="https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525" />
 </p>
 
 <p align='center'>
